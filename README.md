@@ -4,7 +4,7 @@
 
 This live script models people's life under dynamic zero policy in the situation of COVID-19 in China. The idea is not coming from pandemics in a strict sense, but from the self-mockery of Chinese people as illustrated below.
 
-<img src="/home/weibin/Research/Workspace/Matlab/Interesting-Stuff/COVID19-QuarantineModel/dynamic-zero-policy-flowchart.JPG" alt="dynamic-zero-policy-flowchart" style="zoom:50%;" />
+![dynamic-zero-policy-flowchart](https://github.com/wgu93/COVID19-QuarantineModel/blob/main/dynamic-zero-policy-flowchart.JPG)
 
 The code is self-explanatory and have quite a few parameters to play with. So far, it is only supported for MATLAB but can be easily implemented in other programming languages. Again, this is only a toy model that was developed for joyfulness. Feel free to make modifications or re-invent on top of this script and leave comments on mistakes or ways to improve. Thank you.
 
@@ -12,11 +12,11 @@ The code is self-explanatory and have quite a few parameters to play with. So fa
 
 Single-runtime:
 
-![single-runtime-results](/home/weibin/Research/Workspace/Matlab/Interesting-Stuff/COVID19-QuarantineModel/Example/single-runtime-results.jpg)
+![single-runtime-results](https://github.com/wgu93/COVID19-QuarantineModel/blob/main/Example/single-runtime-results.jpg)
 
 Campaign:
 
-![campaign-results](/home/weibin/Research/Workspace/Matlab/Interesting-Stuff/COVID19-QuarantineModel/Example/campaign-results.jpg)
+![campaign-results](https://github.com/wgu93/COVID19-QuarantineModel/blob/main/Example/campaign-results.jpg)
 
 ## Explanation
 
